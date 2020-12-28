@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular30112020"
+  "defaultProject": "angular30112020",
+  "cli": {
+    "analytics": "c169e11d-7bf4-4587-ada0-4eb79c038ef3"
+  }
 }
